@@ -2,7 +2,7 @@
     "nproc": 10,
     "load_type": "dota",
     "img_dirs": [
-        "data/DOTA1_0/test/images/"
+        "/content/drive/MyDrive/data/DOTA1_0/test/images"
     ],
     "ann_dirs": null,
     "classes": null,
@@ -23,6 +23,6 @@
     "padding_value": [
         104, 116, 124
     ],
-    "save_dir": "data/split_ss_dota1_0/test/",
+    "save_dir": "/content/drive/MyDrive/data/split_ss_dota1_0/test/",
     "save_ext": ".png"
 }
